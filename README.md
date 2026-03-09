@@ -1,37 +1,37 @@
-# Hi, I'm WolfnyxSec 🐺 🦉
+# Hi, I'm WolfnyxSec 🐺
 
-### 🕵️ Digital Private Investigator | Web & API Penetration Tester
+### 🛡️ Web & API Penetration Tester | Security Researcher
 
-I am a Security Researcher focused on uncovering the unseen. My approach combines deep technical auditing with the art of **OSINT**
----
-
-## 🛡️ Specialization
-- **Application Security:** Advanced Web & API Penetration Testing.
-- **Vulnerability Research:** Bug Bounty Hunter & Logic Flaw Analysis.
-- **OSINT (TSGINT):**
-    - **TECHINT:** Infrastructure mapping & Metadata forensics.
-    - **SOCMINT:** Digital footprint tracing & Identity correlation.
-    - **GEOINT:** Shadow/Sun analysis & Geospatial positioning (Specialty).
+I am a technical security professional specializing in auditing modern web architectures and complex API ecosystems. My methodology integrates **OSINT (TSGINT)** to simulate advanced persistent threats and uncover hidden attack surfaces.
 
 ---
 
-## 🧰 The Tactical Gear
-- **Pentest:** Burp Suite Professional, Postman, ffuf, SQLmap.
-- **Investigation:** Shadowmap, Maltego, Sherlock, Google Dorks.
-- **Mindset:** User Experience (UX) & Social Engineering (SocE) oriented.
+## 💻 Professional Focus
+- **Web Pentesting:** Deep-dive auditing of web applications (OWASP Top 10, Business Logic flaws).
+- **API Security:** Testing RESTful/GraphQL endpoints, OAuth2/JWT implementations, and Rate-limiting bypass.
+- **Vulnerability Assessment:** Systematic discovery and exploitation of technical misconfigurations.
+- **OSINT - Reconnaissance:** Leveraging **TECHINT • SOCMINT • GEOINT** to map organizational footprints before engagement.
 
 ---
 
-## 📊 GitHub Stats
-![WolfnyxSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfnyxSec&show_icons=true&theme=tokyonight)
+## 🛠 Penetration Testing Arsenal
+- **Testing:** Burp Suite Professional, Postman, Insomnia, ffuf, Gobuster.
+- **Exploitation:** SQLmap, Metasploit, Custom Python scripts.
+- **Intelligence:** Shadowmap, Google Dorks, Maltego, Wayback Machine.
+
+---
+
+## 📈 Activity & Skillset
+![WolfnyxSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfnyxSec&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfnyxSec&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌑 Connect with the Wolf
-- **Status:** *Freezing* 🥶 | Deep diving into targets.
-- **Looking for:** Sophisticated Bug Bounty programs & OSINT challenges.
-- **Quote:** *"The shadows tell more than the light."*
+## 🔍 Investigation Mindset
+I don't just scan; I **observe**. My background in **Geospatial Intelligence (GEOINT)** and **Social Engineering (SocE)** allows me to identify risks that automated tools often miss.
+
+- **Status:** *Freeze* 🥶 | Hunting for logic flaws.
+- **Mission:** Securing the digital landscape, one endpoint at a time.
 
 ---
-*Stay Invisible. Stay Sharp.* 🕷️
+*Precision. Persistence. Privacy.* 🦉🕷️
