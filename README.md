@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm WolfnyxSec 🐺 🦉
 
-<!--
-**wolfnyxsec/wolfnyxsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🕵️ Digital Private Investigator | Web & API Penetration Tester
 
-Here are some ideas to get you started:
+I am a Security Researcher focused on uncovering the unseen. My approach combines deep technical auditing with the art of **OSINT**
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Specialization
+- **Application Security:** Advanced Web & API Penetration Testing.
+- **Vulnerability Research:** Bug Bounty Hunter & Logic Flaw Analysis.
+- **OSINT (TSGINT):**
+    - **TECHINT:** Infrastructure mapping & Metadata forensics.
+    - **SOCMINT:** Digital footprint tracing & Identity correlation.
+    - **GEOINT:** Shadow/Sun analysis & Geospatial positioning (Specialty).
+
+---
+
+## 🧰 The Tactical Gear
+- **Pentest:** Burp Suite Professional, Postman, ffuf, SQLmap.
+- **Investigation:** Shadowmap, Maltego, Sherlock, Google Dorks.
+- **Mindset:** User Experience (UX) & Social Engineering (SocE) oriented.
+
+---
+
+## 📊 GitHub Stats
+![WolfnyxSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfnyxSec&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfnyxSec&layout=compact&theme=tokyonight)
+
+---
+
+## 🌑 Connect with the Wolf
+- **Status:** *Freezing* 🥶 | Deep diving into targets.
+- **Looking for:** Sophisticated Bug Bounty programs & OSINT challenges.
+- **Quote:** *"The shadows tell more than the light."*
+
+---
+*Stay Invisible. Stay Sharp.* 🕷️
